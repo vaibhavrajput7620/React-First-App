@@ -41,7 +41,7 @@ const Form = styled.form`
 `;
 const Button = styled.button`
   position: fixed;
-  top: 666px;
+  top: 657px;
   right: 154px;
   height: 40px;
   width: 100px;
